@@ -1,0 +1,3 @@
+[submodule "CodePulse-UI"]
+	path = CodePulse-UI
+	url = https://github.com/let-bibek/.NetBlogApp.git
