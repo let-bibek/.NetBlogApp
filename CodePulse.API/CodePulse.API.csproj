@@ -25,11 +25,19 @@
     <None Remove="Models\Domain\" />
     <None Remove="Data\" />
     <None Remove="Controllers\" />
+    <None Remove="Models\DTO\" />
+    <None Remove="Repository\" />
+    <None Remove="Repository\Interface\" />
+    <None Remove="Repository\Implementation\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Models\Domain\" />
     <Folder Include="Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Models\DTO\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Repository\Interface\" />
+    <Folder Include="Repository\Implementation\" />
   </ItemGroup>
 </Project>
